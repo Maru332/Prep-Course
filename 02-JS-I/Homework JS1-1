@@ -1,0 +1,6 @@
+Variables: Es la forma de almacenar el valor de lo que queremos realizar mas tarde.
+String: Es el nombre en cadena alfanumerica que se le va a dar a la variable.
+Argumentos: Es el valor que se le da al metodo.
+Return: Es la sentencia para devolver el valor del metodo.
+IF: Es la sentencia condicional para poder seguir con las siguientes sentencia. 
+Valores boleanos True y False: Es lo que hace que el elemento sea verdadero o falso.  
