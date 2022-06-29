@@ -1,0 +1,3 @@
+FOR: es la sentencia en la que el bucle da vueltas hasta que los valores lleguen a la condicion deseada.
+&& , || , ! : Son operadores logicos en los que evaluan las expresiones y devolvera en valores booleanos si coinciden o no.
+ 
