@@ -1,0 +1,6 @@
+Objeto: Es un contenedor de datos sobre una misma clase.
+Propiedades: Es una variable adjunta al objeto.
+Metodos: Son funciones para realizar ciertas tareas, estas quedan guardadas en un objeto para poder ser llamadas en cualquier momento.
+Bucles for... in: Es el bucle en el que repite el mismo codigo varias veces sobre los objetos con claves.
+Notacion de puntos vs notacion de corchetes: Son formas para acceder a los valores.
+ La diferencia es que con la notacion de corchetes se usa una cadena o numero o una variable que apunte a una de dichas y se coloca la clave envolviendolas en comillas.
