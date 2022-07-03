@@ -1,0 +1,2 @@
+Prototype: Es una propiedad que tienen todos los objetos de JS, el cual representa el prototipo de cada objetos (es decir cuando agregamos un metodo al objeto a partir de prototype, todos los demas objetos lo heredan al instante).
+Constructores: Es un metodo especial que se ejecuta cuando creamos un objeto. 
